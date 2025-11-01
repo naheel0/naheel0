@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naheel Muhammed</h1>
-<h3 align="center">💻 Web Developer | 🌱 Building with HTML, CSS, JavaScript, React | 🚀 Exploring .NET & Next.js</h3>
+<h3 align="center">💻 Web Developer | 🌱 Building with HTML, CSS, JavaScript, React | 🚀 Exploring .NET </h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 💼 **Web Development Intern at [Bridgeon](https://bridgeon.in/)**  
 - 🎓 **Graduate from MES K.V.M College, Valancheri**  
 - 💡 Passionate about crafting responsive and user-friendly web applications  
-- 🌱 Currently exploring **.NET** and **Next.js** to become a full-stack developer  
+- 🌱 Currently exploring **.NET** to become a full-stack developer  
 - 💬 Ask me about: *HTML, CSS, JavaScript, React*  
 - 📫 Reach me at **naheelmuhammad8@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/naheel-muhammad-6b7077378)
