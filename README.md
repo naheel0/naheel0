@@ -62,7 +62,7 @@
 - 💼 Currently interning at **Bridgeon**
 - 🚀 Built 10+ mini frontend projects with HTML, CSS, and JS
 - 🧩 Practicing coding problems on **LeetCode**
-- 🌱 Learning **.NET** and **Next.js** for full-stack development
+- 🌱 Learning **.NET**  for full-stack development
 
 ---
 
