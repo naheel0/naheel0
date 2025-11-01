@@ -2,9 +2,8 @@
 <h3 align="center">💻 Web Developer Intern at Bridgeon | Building interactive websites with HTML, CSS, JavaScript & React | Exploring .NET</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBMuU1ZtSgkM7sU/giphy.gif" width="200" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" alt="coding animation"/>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
