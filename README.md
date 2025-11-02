@@ -47,15 +47,6 @@
 
 ---
 
-### ⚡ Fun Facts
-
-<p align="center">
-  <img src="https://c.tenor.com/7Z0lE3wwb1AAAAAC/working-coding.gif" width="200" alt="coding fun"/>
-  <img src="https://c.tenor.com/3y0bR0xV1pIAAAAC/coffee.gif" width="200" alt="coffee fun"/>
-</p>
-
----
-
 ### 🌍 Connect with Me
 
 <p align="center">
