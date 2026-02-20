@@ -39,7 +39,10 @@
   <img src="https://streak-stats.demolab.com/?user=naheel0&theme=nightowl&hide_border=true&cache_seconds=86400" alt="naheel0's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naheel0&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Naheel Muhammed's GitHub Trophies" />
+ <img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naheel0&theme=nightowl" 
+  width="49%" 
+/>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naheel0&theme=nightowl&radius=10" alt="naheel0's Activity Graph" />
