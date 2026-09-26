@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Naheel%20Muhammed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20Intern%20%7C%20Building%20Interactive%20Web%20Applications&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CEvery%20line%20of%20code%20is%20a%20step%20toward%20mastery.%E2%80%9D" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Ships%20to%20prod%2C%20not%20localhost" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 ## 📌 About Me
 - 💼 Web Development Intern at Bridgeon
 - 🎓 Graduate from MES K.V.M College, Valancheri
-- 🌱 Passionate about frontend development and learning .NET
-- 💻 Skilled in HTML, CSS, JavaScript, and React
-- 💬 Ask me about web development and coding best practices
+- 🚀 Shipped FarmClaim, GameHub and more, live at naheel.me
+- ⚙️ Full-stack: React on the front, .NET (clean architecture, EF Core, SignalR) on the back
+- 💬 Ask me about full-stack .NET and real-time apps
 
 
 ## 🧠 My Focus Areas
-- Frontend Development with React
-- Responsive Web Design (HTML, CSS, Tailwind CSS)
-- JavaScript & ES6+ Features
-- Building Interactive Web Applications
-- Web Application Performance Optimization
+- Full-stack Development with React & ASP.NET Core
+- Responsive Web Design with Tailwind CSS
+- Real-time Applications with SignalR
+- API Design with CQRS and Entity Framework Core
+- Background Jobs with Hangfire
+- Next.js and Vite Tooling
 - Version Control with Git & GitHub
-- Exploring .NET for Backend Development
 
 
 ## 📊 GitHub Stats & Trophies
@@ -65,7 +65,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/naheel-muhammad-6b7077378/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:naheelmuhammad8@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://naheel.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/naheel-muhammad-6b7077378/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:naheelmuhammad8@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.naheel.me/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -73,11 +73,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
-
